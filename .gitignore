@@ -1,0 +1,11 @@
+F4SE/
+Saves/
+Logs/
+BethINI\ Cache/
+*.html
+*.bak
+*.dat
+*.txt
+.base
+.baked
+.BethINIbackup
