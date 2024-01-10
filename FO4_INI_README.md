@@ -19,3 +19,5 @@ bReflectLODLand=0
 bReflectSky=0
 bReflectLODTrees=0
 ```
+
+Maybe in the future, I will create other branches for different performance levels.
