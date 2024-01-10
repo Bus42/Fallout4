@@ -6,3 +6,6 @@ BethINI\ Cache/
 *.bak
 *.dat
 *.txt
+.base
+.baked
+.BethINIbackup
