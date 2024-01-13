@@ -32,6 +32,12 @@ Maybe in the future, I will create other branches for different performance leve
 
 I would liked to have included a folder with MCM presets, but MCM does not seem to play nice with Steam on Linux in my current config for some reason. If you would like to contribute one, create a branch named feature/mcm-settings and upload your presets then create a Pull Request and I'll add them!
 
+## Available Console Commands
+
+- `rff` - [Rusty Face Fix](https://www.nexusmods.com/fallout4/mods/31028?_gl=1*pjlqx5*_ga*MTIzNjgwMzk0Mi4xNjk4MjA3MzQ1*_ga_N0TELNQ37M*MTcwNTE4NzQyMC45My4xLjE3MDUxODc1ODIuMC4wLjA.): Fixes the rusty face bug, select the affected NPC and type `rff` in the console (works on the player, too).
+- `rename` - [Rename Anything](https://www.nexusmods.com/fallout4/mods/22105?_gl=1*14ykf5c*_ga*MTIzNjgwMzk0Mi4xNjk4MjA3MzQ1*_ga_N0TELNQ37M*MTcwNTE4NzQyMC45My4xLjE3MDUxODc1MzUuMC4wLjA.): Rename any NPC, container, weapon, armor, etc. by selecting it and typing `rename <new name>` in the console.
+- `help` - [Console Commands Extender](https://www.nexusmods.com/fallout4/mods/47328?_gl=1*1yeuva8*_ga*MTIzNjgwMzk0Mi4xNjk4MjA3MzQ1*_ga_N0TELNQ37M*MTcwNTE4NzQyMC45My4xLjE3MDUxODc0NDkuMC4wLjA.): Adds a simplified search function to the console, type `help <search term>` to search for a command.
+
 ## Scripts
 
 ### settlement
