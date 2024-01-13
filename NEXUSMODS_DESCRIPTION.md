@@ -2,6 +2,8 @@
 
 ## Description
 
+I called this one (F)All Out War because Sim Settlements 2 Chapter 3 is a primary mod in this collection and presents the gunners as a serious threat. We Are The Minutemen and Militarized Minutemen give the Minutemen real teeth. There are more enemy types and added mechanics for calling in an airstrike, either from your faction in SS2 or from the Minutemen - or both! You now have the ability to build and maintain a fleet of vertibirds with different loadouts and paint schemes. There are more weapons, and the raiders have them, too. The combination of the Feral Ghouls Expansion Pack and Black Summer mods make ferals much more problematic than before.
+
 While my last collection was great, it wasn't quite stable enough so I made some sacrifices in the interests of stability. I removed several mods such as Diamond City Expansion, Scrap Everything, Water Effects and Textures, and other great mods that just didn't quite make the cut. Most were replaced with more stable methods.
 
 My goal was immersive game play, improved survival mechanics, and a richer story line while maintaining a challenging game. A survival play-through can be more enjoyable now with full customization and added fast-travel mechanics via Caravans in SS2 settlements, the teleporter, personal vertibirds, and a sailboat. New settlements include a vast underground facility, an underwater vault (cut content), and an underground hideout full of goodies. I strongly suggest finding Heather Casdin right away, she's the best companion mod ever created. Level 109 and I'm still getting new dialogue and interactions.
@@ -16,6 +18,7 @@ Oh, and get good at headshots - you'll need it.
 - Includes Minerva Looks Menu Preset and Minerva's Red Rocket - rpconfig script available on GitHub to match the outfit, loadout, stats, and perks of the Minerva preset
 - Skip the stupid DiMA memory game
 - Skip raiding your own settlements
+- Simplified terminal hacking
 - So much crafting, including more grenade types and legendary crafting!
 - Larger settlements with All Settlements Extended
 - A batch script to increase build limits! (thouroughly tested, but don't go crazy) 
@@ -58,4 +61,4 @@ WINEDLLOVERRIDES="xaudio2_7=n,b;d3dcompiler_47=n;dxgi=n,b" PROTON_ENABLE_NVAPI=1
 
  No other collections have been tested with this collection. It was designed to be a one-shot solution. For best stability, do not combine with other collections. I have tested literally thousands of mods. If there's one you really want and it isn't in here - chances are it was in Fallout Upgrayedded and didn't make the cut for this one. Any mods that alter settlements or locations will likely conflict as many locations and settlements are altered. Any mods that affect NPC AI will cause conflicts. Any mods that alter vanilla quests, such as start mods, will likely cause issues. Any mods that affect combat AI will cause conflicts
 
- That being said, feel free to install your favorite texture mods - the ones in this collection were chosen for a balance of quality and performance. Throw all the clothing mods you want at it, but keep in mind all of the vanilla outfits in the base game and all DLC have been replaced and you will already have your choice of up to 3 overrides when building with BodySlide (CBBE, Classy Chassis Outfits, and jumpsuit replacers) plus all of the outfits from Eli's Compendium - modified with CCO.
+ That being said, feel free to install your favorite texture mods - the ones in this collection were chosen for a balance of quality and performance. Throw all the clothing and weapon mods you want at it. Keep in mind all of the vanilla outfits in the base game and all DLC have been replaced and you will already have your choice of up to 3 overrides when building with BodySlide (CBBE, Classy Chassis Outfits, and Jumpsuits) plus all of the outfits from Eli's Compendium - modified with CCO.
