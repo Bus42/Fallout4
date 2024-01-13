@@ -39,8 +39,8 @@ I would liked to have included a folder with MCM presets, but MCM does not seem 
 This script will increase the build limit for settlements. It is a modified version of the script found [here](https://www.nexusmods.com/fallout4/mods/818/). Save it as _settlement.txt_ to your Fallout 4 directory and run it from the developer console by typing `bat settlement`.
 
 ```bash
-modav 349 1000000.00
-modav 34B 1000.00
+modav 349 500000.00
+modav 34B 500.00
 getav 349
 getav 34B
 ```
