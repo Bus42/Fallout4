@@ -44,6 +44,7 @@ If you want Buffout4 to work, follow the setup instructions on the Nexus Mods pa
 
 Take the extra time to set up the aforementioned mods
 Clean mods with Quick Auto Clean
+**IMPORTANT:** Mark all mods that you can as light plugins - or you will crash
 
 ## Recommended specs
 
